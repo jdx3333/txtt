@@ -1,13 +1,9 @@
 {
     "color": "#6495ED",
-    "prefix": "*",
-    "name": "4Protect",
+    "prefix": "+",
+    "name": "Mugi",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
-    "owner": [
-        "1208337813339373569", 
-        "",
-        ""
-    ]
+    "owner": ["1209146446780309595", "1251248247511449663", ""]
 }
